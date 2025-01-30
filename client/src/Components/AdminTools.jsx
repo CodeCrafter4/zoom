@@ -39,7 +39,7 @@ const AdminTools = () => {
   return (
     <div className="admin-tools">
       <button className='btn text-white' onClick={toggleAdminTools}>
-        <MdOutlineAdminPanelSettings /> <br /> Admin Tools
+        <MdOutlineAdminPanelSettings /> <br /> Admin 
       </button>
 
       {showAdminTools && (
